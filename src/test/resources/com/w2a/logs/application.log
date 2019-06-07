@@ -1,0 +1,13 @@
+06/06/2019 16:36:20 devpinoyLogger Config file loaded...
+06/06/2019 16:36:20 devpinoyLogger Object Repository file loaded...
+06/06/2019 16:36:23 devpinoyLogger Chrome Browser launched...
+06/06/2019 16:36:25 devpinoyLogger Navigated to https://www.zoho.com/
+06/06/2019 16:36:26 devpinoyLogger Clicking on an Element : loginLink_CSS
+06/06/2019 16:36:27 devpinoyLogger Typing on an Element : email_CSS. Entered value as siva.cambia@gmail.com
+06/06/2019 16:36:27 devpinoyLogger Typing on an Element : password_CSS. Entered value as Amma2018#
+06/06/2019 16:36:27 devpinoyLogger Clicking on an Element : signInBtn_CSS
+06/06/2019 16:36:39 devpinoyLogger Clicking on an Element : zicon-apps-crm_XPATH
+06/06/2019 16:36:39 devpinoyLogger Clicking on an Element : createAccount_XPATH
+06/06/2019 16:36:39 devpinoyLogger Clicking on an Element : createIcon_XPATH
+06/06/2019 16:36:40 devpinoyLogger Clicking on an Element : submenu_Accounts_XPATH
+06/06/2019 16:36:40 devpinoyLogger Typing on an Element : crm_ACCOUNTNAME_XPATH. Entered value as Sivakumar
